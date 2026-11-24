@@ -29,5 +29,6 @@ Asociación entre variables categóricas mediante V de Cramér.
 [[Open In Colab](https://colab.research.google.com/drive/1wLPwlPWuVeplRNhzPOu1c85HGXyM406k)
 
 Abre el archivo .ipynb en GitHub
+
 Haz clic en *Open in Colab
 
